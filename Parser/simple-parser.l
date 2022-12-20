@@ -1,4 +1,7 @@
 %{ 
+    //  The code was cloned from : https://github.com/jatin69/python-parser
+    // with adding some edits in keywords of the language and tokens     
+
     #include <stdio.h>
     #include <stdlib.h>
     #include "simple-parser.tab.h" 
